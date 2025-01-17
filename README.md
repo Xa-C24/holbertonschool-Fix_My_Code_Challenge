@@ -23,7 +23,7 @@ This project is **optional** and serves as a fun way to test your debugging skil
 
 ---
 
-## 🌟 Tasks
+## 🌟 Tasks  
 
 ### 0️⃣ FizzBuzz (Python) 🐍
 🔗 File: `0-fizzbuzz.py`
@@ -32,7 +32,7 @@ This project is **optional** and serves as a fun way to test your debugging skil
 The program prints `Fizz` for numbers divisible by 15 instead of `FizzBuzz`.
 
 #### Example:
-```bash
+
 $ ./0-fizzbuzz.py 50
 1 2 Fizz 4 Buzz Fizz 7 8 Fizz Buzz 11 Fizz 13 14 Fizz 16 ...  
 
